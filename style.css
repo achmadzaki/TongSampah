@@ -1,0 +1,19 @@
+.tombol {
+        padding: 20px 30px;
+        color: white;
+        display: table;
+        position: absolute;
+        margin-left: 400px; 
+}
+
+.btn{
+    cursor: pointer;
+    width: 100px;
+    height: 60px;
+    padding: 5px;
+    margin: 5px;
+    background-color: red;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
